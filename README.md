@@ -9,7 +9,7 @@ I am using n8n for like a week now and i am still willing to learn more and get 
 This is my first little project.
 
 ## Steps for import to n8n
-1. --> Log-in to [n8n.io](https://n8n.io/)
+1. --> Log-in or sign up to [n8n.io](https://n8n.io/)
 2. --> Create or open new workflow
 3. --> In the new workflow you have in the right corner three dots next to "Save" or "Saved", click on that
 4. --> Menu afterwards shows and you need to click "Import from File"
